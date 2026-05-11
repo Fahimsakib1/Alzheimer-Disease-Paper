@@ -1,4 +1,4 @@
-# Enhancing Alzheimer's Detection: A Comprehensive Performance Analysis of Unimodal and Multimodal Data Fusion Approaches
+# Beyond the Scan: A Clinically Inspired Multimodal Framework Integrating MRI Neuroimaging, IoT-Based Physiological Signals, and EHR for Alzheimer's Detection and Severity Classification
 Alzheimer’s Disease (AD) is a progressive neurological disorder that leads to declining memory and cognitive function. Early diagnosis is essential, as timely intervention can slow disease progression and improve patient outcomes. This study reviews and experiments with unimodal and multimodal Machine Learning (ML) and Deep Learning (DL) approaches for predicting AD stages.
 
 ## 1. Abstract
